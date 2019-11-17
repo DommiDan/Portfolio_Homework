@@ -1,0 +1,64 @@
+header {
+    padding: 18px;
+    outline-color: grey;
+    background: white;
+}
+.name {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin: 15px;
+    padding: 20px;
+    background-color: teal;
+    font-weight: bolder;
+    margin-left: 220px;
+}
+.link {
+    float: right;
+    color: gray;
+    margin-right: 5px;
+    margin-left: 30px;
+}
+
+.a {
+    float: bottom;
+    color: teal;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-bottom: 60px;
+    padding: 220px;
+    padding-bottom: 140px;
+    margin-top: 20px;
+    padding-left: 80px;
+}
+.container {
+    padding: 220px;
+    padding-top: 60px;
+    padding-left: 80px;
+}
+.me {
+    background: white;
+    clear:both;
+    box-sizing: border-box;
+    height: 500px;
+    width: 740px;
+    margin:170px;
+    padding-bottom: 3px;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+.clearfix {
+    overflow: auto;
+  }
+  form {
+margin-top: 10px;
+  }
+
+  html {
+   width:initial;
+   height: 800px;;
+  }
+  .paragraph {
+      float: right;
+  }

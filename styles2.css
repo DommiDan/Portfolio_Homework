@@ -1,0 +1,48 @@
+header {
+    padding: 18px;
+    outline-color: grey;
+    background: white;
+}
+.name {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin: 15px;
+    padding: 20px;
+    background-color: teal;
+    font-weight: bolder;
+    margin-left: 220px;
+}
+.link {
+    float: right;
+    color: gray;
+    margin-right: 5px;
+    margin-left: 30px;
+}
+
+.a {
+    float: bottom;
+    color: teal;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-bottom: 60px;
+    padding: 220px;
+    padding-bottom: 140px;
+    margin-top: 20px;
+    padding-left: 80px;
+}
+.container{
+    padding: 220px;
+    padding-top: 60px;
+    padding-left: 80px;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+
+  html {
+   width:initial;
+   height: 800px;;
+  }
